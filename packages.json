@@ -1,12 +1,19 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "IDKSMP",
-            "title": "IDKSMP",
-            "version": "20100223",
-            "location": "idksmp.json",
-            "priority": 1
-        }
-    ]
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "name": "IDKSMP",
+      "title": "IDKSMP",
+      "version": "20100223",
+      "location": "idksmp.json",
+      "priority": 1
+    },
+    {
+      "name": "mfi",
+      "title": "MFI",
+      "version": "20100223",
+      "location": "mfi.json",
+      "priority": 1
+    }
+  ]
 }
